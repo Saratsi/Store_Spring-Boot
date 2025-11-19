@@ -59,13 +59,13 @@ Here are some of the main endpoints (example):
    git clone https://github.com/Saratsi/Store_Spring-Boot.git  
    cd Store_Spring-Boot
    
-2. **Copy .env.example to .env and fill in your values e.g.
+2. Copy .env.example to .env and fill in your values e.g.
    
-DATABASE_URL=<your database URL>  
-STRIPE_SECRET_KEY=<your stripe test secret>  
-STRIPE_PUBLISHABLE_KEY=<your stripe publishable key> 
+   DATABASE_URL=<your database URL>  
+   STRIPE_SECRET_KEY=<your stripe test secret>  
+   STRIPE_PUBLISHABLE_KEY=<your stripe publishable key> 
 
-3. Run the application
+3. (Run the application)
 
 4.Test the API
 --------------
