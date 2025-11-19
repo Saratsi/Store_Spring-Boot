@@ -1,0 +1,2 @@
+ALTER TABLE addresses
+    ADD state VARCHAR(255) NOT NULL;
